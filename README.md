@@ -1,4 +1,4 @@
-# MyProject001
+# Debouncer Project Details
 1.	In the assignment we are supposed to create a single-instance module to debounce push buttons to the requirements below:
 i.	The module shall be testable on PC and Teensy b. The module shall be fully tested, and the code coverage shall be 100%. 
 ii.	The module shall be able to debounce multiple buttons (max. 8 buttons) 
